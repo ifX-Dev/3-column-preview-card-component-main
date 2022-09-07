@@ -5,7 +5,6 @@
     box-sizing: border-box;
 }
 main {
-    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
